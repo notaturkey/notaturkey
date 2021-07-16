@@ -37,7 +37,7 @@ A **Space and Math** ***Enthusiast*** 🚀.
 - 👨🏽‍💻 I’m currently a DevOps Engineer At NASA's Kennedy Space Center 
 - 🌱 I’m currently exploring Node.js and the plethora of tools that can be used alongside it. 
 - 🤔 My interest lies in both full stack development and DevOps.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about outdoor activities, I love to climb, hike, and snowboard!
 - 📫 Email me at [***REDACTED***](mailto:***REDACTED***).
 
 
