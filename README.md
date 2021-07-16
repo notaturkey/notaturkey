@@ -40,12 +40,12 @@ A **Space and Math** ***Enthusiast*** 🚀.
 - 💬 Ask me about outdoor activities, I love to climb, hike, and snowboard!
 - 📫 Email me at [***REDACTED***](mailto:***REDACTED***).
 
-
+<!--
 **Currently listening to:**
 <br/>
 [![Spotify](https://novatorem-ecru-seven.vercel.app/api/spotify)](https://open.spotify.com/user/12173571447
 )
-
+-->
 
 **Languages and Tools:**  
 
